@@ -1,0 +1,3662 @@
+[
+  {
+    "id": 1,
+    "nome": "Adna Ramos",
+    "foto": "https://randomuser.me/api/portraits/women/30.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Figma",
+      "Power BI",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2021-09",
+        "fim": "2025-11",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Data Science"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 2,
+    "nome": "Silene Mendes",
+    "foto": "https://randomuser.me/api/portraits/women/38.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Java",
+      "Docker",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Analista de Dados",
+        "inicio": "2018-11",
+        "fim": "2024-05",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cultura Ágil"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 3,
+    "nome": "Calvino Rezende",
+    "foto": "https://randomuser.me/api/portraits/men/46.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Java",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "Product Owner",
+        "inicio": "2019-02",
+        "fim": "2023-07",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "Educação"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 4,
+    "nome": "Alder Teixeira",
+    "foto": "https://randomuser.me/api/portraits/men/88.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Docker",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "UX Designer",
+        "inicio": "2020-04",
+        "fim": "2025-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFSC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 5,
+    "nome": "Junilvana Moura",
+    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Java",
+      "SQL",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Analista de Dados",
+        "inicio": "2018-03",
+        "fim": "2024-01",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Cultura Ágil"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 6,
+    "nome": "Almerindo Porto",
+    "foto": "https://randomuser.me/api/portraits/men/41.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-04",
+        "fim": "2025-06",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "USP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Data Science"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 7,
+    "nome": "Procópio Nogueira",
+    "foto": "https://randomuser.me/api/portraits/men/52.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2019-03",
+        "fim": "2023-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "UFRGS",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 8,
+    "nome": "Arcádio Costa",
+    "foto": "https://randomuser.me/api/portraits/men/16.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Java",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Organização",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-09",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "PUC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "IA Ética"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 9,
+    "nome": "Rói Moraes",
+    "foto": "https://randomuser.me/api/portraits/men/27.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Docker",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-01",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFSC",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 10,
+    "nome": "Floriana Costa",
+    "foto": "https://randomuser.me/api/portraits/women/70.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Docker",
+      "React",
+      "Figma",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Cientista de Dados",
+        "inicio": "2018-08",
+        "fim": "2025-01",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "IA Ética"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 11,
+    "nome": "Cenilda Silva",
+    "foto": "https://randomuser.me/api/portraits/women/94.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "AWS",
+      "SQL",
+      "Node.js",
+      "Java"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-12",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Data Science"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 12,
+    "nome": "Julião Lopes",
+    "foto": "https://randomuser.me/api/portraits/men/82.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Figma",
+      "JavaScript",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2022-09",
+        "fim": "2023-07",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Data Science"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 13,
+    "nome": "Alexandro Alves",
+    "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "Node.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2021-09",
+        "fim": "2024-01",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 14,
+    "nome": "Evelásio Jesus",
+    "foto": "https://randomuser.me/api/portraits/men/77.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Product Owner",
+        "inicio": "2021-10",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cultura Ágil"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 15,
+    "nome": "Urbino Carvalho",
+    "foto": "https://randomuser.me/api/portraits/men/41.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "Java",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "UX Designer",
+        "inicio": "2020-06",
+        "fim": "2025-01",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Cultura Ágil"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 16,
+    "nome": "Terumi Martins",
+    "foto": "https://randomuser.me/api/portraits/women/9.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "React",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Product Owner",
+        "inicio": "2021-11",
+        "fim": "2025-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 17,
+    "nome": "Ubiara Barros",
+    "foto": "https://randomuser.me/api/portraits/women/61.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "Figma",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Analista de Dados",
+        "inicio": "2019-09",
+        "fim": "2024-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFSC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "Educação"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 18,
+    "nome": "Jader Moraes",
+    "foto": "https://randomuser.me/api/portraits/men/35.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Java",
+      "React",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-02",
+        "fim": "2024-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 19,
+    "nome": "Haydée Fogaça",
+    "foto": "https://randomuser.me/api/portraits/women/42.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "Docker",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "Analista de Dados",
+        "inicio": "2018-12",
+        "fim": "2023-01",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 20,
+    "nome": "Edilaine da Cunha",
+    "foto": "https://randomuser.me/api/portraits/women/60.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Organização",
+      "Criatividade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Analista de Dados",
+        "inicio": "2018-11",
+        "fim": "2025-08",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Cultura Ágil"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 21,
+    "nome": "Isolete de Souza",
+    "foto": "https://randomuser.me/api/portraits/women/21.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "Figma",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2019-12",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 22,
+    "nome": "Parcidio da Cunha",
+    "foto": "https://randomuser.me/api/portraits/men/72.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Java",
+      "SQL",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "UX Designer",
+        "inicio": "2020-11",
+        "fim": "2025-11",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFRGS",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 23,
+    "nome": "Isaac Ramos",
+    "foto": "https://randomuser.me/api/portraits/men/85.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "JavaScript",
+      "Docker",
+      "Java"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2020-04",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 24,
+    "nome": "Cloé da Cunha",
+    "foto": "https://randomuser.me/api/portraits/women/52.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Java",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Desenvolvedor Mobile",
+        "inicio": "2022-04",
+        "fim": "2025-12",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "Educação"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 25,
+    "nome": "Jicely Farias",
+    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "Docker",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2021-04",
+        "fim": "2025-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 26,
+    "nome": "Omar Martins",
+    "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Power BI",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Cientista de Dados",
+        "inicio": "2018-04",
+        "fim": "2023-03",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 27,
+    "nome": "Catiúcia Moura",
+    "foto": "https://randomuser.me/api/portraits/women/67.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "Java",
+      "AWS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-08",
+        "fim": "2023-08",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA Ética"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 28,
+    "nome": "Felicíssimo Nunes",
+    "foto": "https://randomuser.me/api/portraits/men/1.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Java",
+      "AWS",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Criatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2018-08",
+        "fim": "2025-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Data Science"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 29,
+    "nome": "Isabete Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/62.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "React",
+      "Java",
+      "Figma",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Liderança",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2018-05",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFSC",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Educação"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 30,
+    "nome": "Tucha Martins",
+    "foto": "https://randomuser.me/api/portraits/women/40.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "SQL",
+      "React",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Product Owner",
+        "inicio": "2019-08",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 31,
+    "nome": "Cristiana Fogaça",
+    "foto": "https://randomuser.me/api/portraits/women/83.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Figma",
+      "JavaScript",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "UX Designer",
+        "inicio": "2019-09",
+        "fim": "2023-07",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "Educação"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 32,
+    "nome": "Estácio Santos",
+    "foto": "https://randomuser.me/api/portraits/men/98.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-08",
+        "fim": "2025-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "IA Ética"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 33,
+    "nome": "Geane Moreira",
+    "foto": "https://randomuser.me/api/portraits/women/49.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "React",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-10",
+        "fim": "2025-03",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 34,
+    "nome": "Núbia Carvalho",
+    "foto": "https://randomuser.me/api/portraits/women/6.jpg",
+    "cargo": "Especialista em Marketing Digital",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Java",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2018-12",
+        "fim": "2025-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Acessibilidade Digital"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 35,
+    "nome": "Rosana Gonçalves",
+    "foto": "https://randomuser.me/api/portraits/women/12.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Power BI",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2019-12",
+        "fim": "2025-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFSC",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Educação"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 36,
+    "nome": "Henoch Sales",
+    "foto": "https://randomuser.me/api/portraits/men/99.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Docker",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2020-09",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Cultura Ágil"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 37,
+    "nome": "Irmino Novaes",
+    "foto": "https://randomuser.me/api/portraits/men/6.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Figma",
+      "JavaScript",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2019-09",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Tecnologia Sustentável"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 38,
+    "nome": "Aline Pinto",
+    "foto": "https://randomuser.me/api/portraits/women/41.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Java",
+      "JavaScript",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2020-03",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFRGS",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "Acessibilidade Digital"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 39,
+    "nome": "Maximiano Almeida",
+    "foto": "https://randomuser.me/api/portraits/men/13.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2019-08",
+        "fim": "2023-04",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "Acessibilidade Digital"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 40,
+    "nome": "Alvani Rezende",
+    "foto": "https://randomuser.me/api/portraits/women/90.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "DevOps Engineer",
+        "inicio": "2018-03",
+        "fim": "2023-04",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 41,
+    "nome": "Darilha da Rosa",
+    "foto": "https://randomuser.me/api/portraits/women/94.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "UX Designer",
+        "inicio": "2020-12",
+        "fim": "2023-08",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFRGS",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Acessibilidade Digital"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 42,
+    "nome": "Clemêncio Castro",
+    "foto": "https://randomuser.me/api/portraits/men/57.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Node.js",
+      "Python",
+      "Java"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-06",
+        "fim": "2024-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFSC",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "Cultura Ágil"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 43,
+    "nome": "Saula Caldeira",
+    "foto": "https://randomuser.me/api/portraits/women/76.jpg",
+    "cargo": "Especialista em Marketing Digital",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Power BI",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-03",
+        "fim": "2023-04",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA Ética"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 44,
+    "nome": "Emanuele Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/24.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Java",
+      "Node.js",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Empatia",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2018-10",
+        "fim": "2023-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "Educação"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 45,
+    "nome": "Oseias Duarte",
+    "foto": "https://randomuser.me/api/portraits/men/49.jpg",
+    "cargo": "Especialista em Marketing Digital",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "JavaScript",
+      "Docker"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2021-04",
+        "fim": "2025-03",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Data Science"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 46,
+    "nome": "Valdomiro Fogaça",
+    "foto": "https://randomuser.me/api/portraits/men/28.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Java",
+      "Power BI",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2018-06",
+        "fim": "2025-04",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFRGS",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Acessibilidade Digital"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 47,
+    "nome": "Kleianne da Rosa",
+    "foto": "https://randomuser.me/api/portraits/women/45.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "JavaScript",
+      "Figma"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2022-03",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Data Science"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 48,
+    "nome": "Janice da Conceição",
+    "foto": "https://randomuser.me/api/portraits/women/96.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "Docker",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-03",
+        "fim": "2024-03",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Acessibilidade Digital"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 49,
+    "nome": "Gabriela da Cruz",
+    "foto": "https://randomuser.me/api/portraits/women/24.jpg",
+    "cargo": "Especialista em Marketing Digital",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2022-09",
+        "fim": "2023-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFSC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Data Science",
+      "IA Ética"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 50,
+    "nome": "Godofreda Cardoso",
+    "foto": "https://randomuser.me/api/portraits/women/90.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Java",
+      "React",
+      "Power BI",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa SoftHouse",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2021-08",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "IA Ética"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 51,
+    "nome": "Cristiane Lopes",
+    "foto": "https://randomuser.me/api/portraits/women/73.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2018-02",
+        "fim": "2025-09",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Acessibilidade Digital"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 52,
+    "nome": "Zenira Pires",
+    "foto": "https://randomuser.me/api/portraits/women/47.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "SQL",
+      "Python",
+      "Figma"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2021-06",
+        "fim": "2023-04",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "Data Science"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 53,
+    "nome": "Vilator Nascimento",
+    "foto": "https://randomuser.me/api/portraits/men/5.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Product Owner",
+        "inicio": "2020-11",
+        "fim": "2024-04",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "PUC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Data Science"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 54,
+    "nome": "Válter Araújo",
+    "foto": "https://randomuser.me/api/portraits/men/56.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Java",
+      "AWS",
+      "Figma",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2018-07",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Cultura Ágil"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 55,
+    "nome": "Valdirene Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/77.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Java",
+      "AWS",
+      "Figma",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "Product Owner",
+        "inicio": "2022-03",
+        "fim": "2023-07",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA Ética"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 56,
+    "nome": "Isidro Nogueira",
+    "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "Docker",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa TechPlus",
+        "cargo": "Product Owner",
+        "inicio": "2018-05",
+        "fim": "2024-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Acessibilidade Digital"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 57,
+    "nome": "Divo Souza",
+    "foto": "https://randomuser.me/api/portraits/men/27.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "SQL",
+      "Java",
+      "Figma"
+    ],
+    "softSkills": [
+      "Organização",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "DevOps Engineer",
+        "inicio": "2018-09",
+        "fim": "2025-05",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Delta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cultura Ágil"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 58,
+    "nome": "Sidónio Freitas",
+    "foto": "https://randomuser.me/api/portraits/men/68.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Java",
+      "JavaScript",
+      "Figma",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataVision",
+        "cargo": "Especialista em Marketing Digital",
+        "inicio": "2018-07",
+        "fim": "2025-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Gamma",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia Sustentável",
+      "Cultura Ágil"
+    ],
+    "genero": "male"
+  },
+  {
+    "id": 59,
+    "nome": "Luzia Souza",
+    "foto": "https://randomuser.me/api/portraits/women/67.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Node.js",
+      "Docker",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa NextCode",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-08",
+        "fim": "2023-02",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Dados",
+        "instituicao": "PUC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Alpha",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade Digital",
+      "Cultura Ágil"
+    ],
+    "genero": "female"
+  },
+  {
+    "id": 60,
+    "nome": "Verônica Aragão",
+    "foto": "https://randomuser.me/api/portraits/women/88.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em projetos tecnológicos e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Docker",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa InovaLab",
+        "cargo": "Desenvolvedor Mobile",
+        "inicio": "2022-07",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares com foco em resultados e qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFRGS",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Beta",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Projeto de destaque desenvolvido em equipe multidisciplinar."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Acessibilidade Digital"
+    ],
+    "genero": "female"
+  }
+]
