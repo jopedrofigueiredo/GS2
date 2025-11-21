@@ -6,17 +6,21 @@ Este projeto tem como finalidade criar uma plataforma para que pessoas possam ex
 ---
 
 ## Funcionalidades
---Pesquisar por nome, cidade, cargo, área ou habilidades técnicas.
---Troca de modo de tema (claro e escuro).
---Curtir e salvar perfis.
---Enviar Mensagem para usúario.
+- Pesquisar por nome, cidade, cargo, área ou habilidades técnicas.
+- Troca de modo de tema (claro e escuro).
+- Curtir e salvar perfis.
+- Enviar Mensagem para usúario.
+
+---
+## Feed
+Feed contendo cards de perfil e input de busca. Cada Card na aba do feed contém nome, foto, cargo e princípais skills. ao ser clicado, é aberto um modal que exibe o perfil completo, com as seguintes informações: nome, foto, cargo, resumo de skills, Localização, área, habilídades Técnicas, softSkills, experiências, formação, projetos, certificações, idiomas e áreas de interesse.
 
 
 ---
 
 ## Público alvo
---Profissionais que buscam visibilidade.
---Pessoas e empresas que procuram profissionais capacitados para seus projetos
+- Profissionais que buscam visibilidade.
+- Pessoas e empresas que procuram profissionais capacitados para seus projetos
 
 ## Tecnologias usadas
 
@@ -24,7 +28,7 @@ Este projeto tem como finalidade criar uma plataforma para que pessoas possam ex
 |------------|-----|
 | React + Vite | Front-end da aplicação |
 | TailwindCSS | Estilização |
-| JSON local (public/perfis.json) | Base de dados inicial |
+| JSON local (public/perfis.json) | Base de dados |
 | RandomUser API | Simulação de imagens de profissionais |
 
 
@@ -40,3 +44,9 @@ Foi utilizada a API **https://randomuser.me/api** exclusivamente para simulaçã
 |------|----|
 | João Pedro Mendes De Figueiredo | 558779 |
 | Erick Munhoes Anciães | 561484 |
+
+## Link do site
+https://connext-five.vercel.app/
+
+## Link do repositório
+https://github.com/jopedrofigueiredo/Connext
